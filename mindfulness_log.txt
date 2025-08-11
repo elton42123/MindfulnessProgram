@@ -1,0 +1,3 @@
+2025-08-11 10:23:52Z - Breathing Activity - Duration: 25s - Cycles: 3
+2025-08-11 10:25:02Z - Reflection Activity - Duration: 25s - Prompt: "Think of a time when you did something truly selfless."
+2025-08-11 10:25:51Z - Listing Activity - Duration: 25s - Prompt: "What are personal strengths of yours?" - Items: 0
